@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mati-caliz&label=Profile%20views&color=0e75b6&style=flat" alt="mati-caliz" /> </p>
 
-- 🔭 I’m currently working on **Despegar**
+- 🔭 I’m currently working at **Despegar**
 
 - 🌱 I’m currently learning **Spring, AWS, Docker and Kubernetes**
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **React, NodeJS, Javascript, Java, Python, and so more...**
 
 - 📫 How to reach me **mati-caliz**
-
-- ⚡ Fun fact **I love cycling and swimming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
