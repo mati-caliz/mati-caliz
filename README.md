@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="#-español">🇦🇷 Español</a> · <a href="#-english">🇬🇧 English</a>
+  <a href="#-español">🇦🇷 Español</a> · <a href="#-english">English</a>
 </div>
 
 ---
@@ -40,7 +40,7 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### 👨‍💻 About me
 - 🔭 I work at **Despegar** as a Fullstack Developer
