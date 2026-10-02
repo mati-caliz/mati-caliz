@@ -16,17 +16,17 @@
 
 ### 👨‍💻 Sobre mí
 - 🔭 Trabajo en **Despegar** como Fullstack Developer
-- 🚀 Creador de **[Gastronova](https://gastronova.com.ar/producto)** — plataforma SaaS de gestión gastronómica (POS, IA, multi-tenant)
+- 🚀 Creador de **[Gastronova](https://gastronova.com.ar)** — plataforma SaaS de gestión gastronómica (POS, IA, multi-tenant)
 - 🌱 Profundizando en **Spring Boot, AWS, Docker, Kubernetes** y arquitectura distribuida
 - 💬 Hablemos de **React, Next.js, Java/Spring, Node.js, Python** o sistemas escalables
 - 🤝 Abierto a colaborar en proyectos con impacto real
 
-### 🌟 Proyecto destacado — [Gastronova](https://gastronova.com.ar/producto)
+### 🌟 Proyecto destacado — [Gastronova](https://gastronova.com.ar)
 > **Plataforma integral de gestión para negocios gastronómicos** — POS, inventario, IA predictiva, música ambiente, integraciones con Rappi y PedidosYa, y mucho más.
 
 **Stack:**
 - **Frontend:** Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS 4 · shadcn/ui
-- **Backend:** Spring Boot 3.4 · Java 21 · PostgreSQL 15 · Redis · Flyway
+- **Backend:** Spring Boot 3.5 · Java 21 · PostgreSQL 16 · Redis · Flyway
 - **ML:** Modelos de predicción de demanda en Python
 - **Infra:** Docker · arquitectura multi-tenant · SSE para sincronización en tiempo real
 
@@ -43,17 +43,17 @@
 
 ### 👨‍💻 About me
 - 🔭 I work at **Despegar** as a Fullstack Developer
-- 🚀 Creator of **[Gastronova](https://gastronova.com.ar/producto)** — a SaaS platform for restaurant management (POS, AI, multi-tenant)
+- 🚀 Creator of **[Gastronova](https://gastronova.com.ar)** — a SaaS platform for restaurant management (POS, AI, multi-tenant)
 - 🌱 Currently going deeper into **Spring Boot, AWS, Docker, Kubernetes** and distributed architecture
 - 💬 Ask me about **React, Next.js, Java/Spring, Node.js, Python** or scalable systems
 - 🤝 Open to collaborating on projects with real impact
 
-### 🌟 Featured project — [Gastronova](https://gastronova.com.ar/producto)
+### 🌟 Featured project — [Gastronova](https://gastronova.com.ar)
 > **End-to-end management platform for restaurants** — POS, inventory, predictive AI, ambient music, Rappi & PedidosYa integrations, and much more.
 
 **Stack:**
 - **Frontend:** Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS 4 · shadcn/ui
-- **Backend:** Spring Boot 3.4 · Java 21 · PostgreSQL 15 · Redis · Flyway
+- **Backend:** Spring Boot 3.5 · Java 21 · PostgreSQL 16 · Redis · Flyway
 - **ML:** Demand prediction models in Python
 - **Infra:** Docker · multi-tenant architecture · SSE for real-time sync
 
